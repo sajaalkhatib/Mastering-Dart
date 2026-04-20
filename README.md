@@ -1,1 +1,1 @@
-# Mastering-Dart
+<p align="center"> <img src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb3822e.svg" width="200"/> </p> <h3 align="center">📚 Learning Dart from Basics to Advanced Concepts</h3> <p align="center"> A structured repository documenting my journey of mastering the Dart programming language step by step. </p
