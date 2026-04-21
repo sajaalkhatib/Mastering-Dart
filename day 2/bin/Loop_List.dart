@@ -51,4 +51,19 @@ List<int> numbers = [10, 15, 20, 25, 30];
     }
 
   }
+
+  
+
+  // 🔹 2D List (صفوف وأعمدة)
+  List<List<int>> matrix = [
+    [1, 2, 3],   // row 0
+    [4, 5, 6],   // row 1
+    [7, 8, 9],   // row 2
+  ];
+
+  // 🔹 الوصول لعنصر
+  print(matrix[0][0]); // 1
+  print(matrix[1][2]); // 6
+
+
 }
