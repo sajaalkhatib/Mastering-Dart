@@ -72,10 +72,6 @@ Write clean and professional code
 📌 Resources
 https://dart.dev
 https://dart-tutorial.com
-👩‍💻 Author
 
-Saja AlKhatib
-💙 Dart & Flutter Developer in Progress
-🚀 Building strong fundamentals step by step
 
 <p align="center"> ⭐ If you find this course helpful, don’t forget to star the repository! </p>
