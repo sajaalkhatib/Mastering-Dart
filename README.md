@@ -1,26 +1,51 @@
-📘 Mastering Dart
-<p align="center"> <img src="https://img.shields.io/badge/Dart-Language-blue?style=for-the-badge&logo=dart" /> <img src="https://img.shields.io/badge/OOP-Practice-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Async-Programming-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Streams-Advanced-purple?style=for-the-badge" /> </p>
-🚀 About The Project
+Mastering Dart – Complete Learning Course
+<p align="center"> <img src="https://img.shields.io/badge/Course-Dart%20Mastery-blue?style=for-the-badge&logo=dart" /> <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Clean%20Code-orange?style=for-the-badge" /> </p>
+🎯 Course Overview
 
-This repository documents my journey in learning and mastering the Dart programming language, from basic concepts to advanced topics, with clean examples and practical exercises.
+This repository is structured as a complete Dart learning course, starting from fundamentals and progressing to advanced topics. It is designed to build strong programming skills for Flutter development and real-world applications.
 
-🧠 Covered Topics
-Dart Basics (Variables, Data Types, Functions, Loops)
-Object-Oriented Programming (OOP)
-Inheritance, Polymorphism, Encapsulation
-Generics (Class & Function)
-Asynchronous Programming (Future, async, await)
-Streams (Stream, async*, yield)
-Practical coding exercises
+📚 Course Structure
+🟦 Module 1: Dart Basics
+Variables & Data Types
+Operators
+Control Flow (if, switch)
+Loops (for, while, do-while)
+🟩 Module 2: Functions
+Functions basics
+Parameters & Return types
+Arrow functions
+Scope
+🟨 Module 3: Object-Oriented Programming (OOP)
+Classes & Objects
+Constructor types
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+🟪 Module 4: Generics
+Generic Classes
+Generic Functions
+Type Safety
+Reusable Code Design
+🟧 Module 5: Asynchronous Programming
+Future
+async / await
+Delayed execution
+API simulation
+🟫 Module 6: Streams
+Stream basics
+async* & yield
+listen() vs await for
+Real-time data handling
 💻 Example Code
 void main() async {
-  print("Start");
+  print("Course Started");
 
   await for (var value in countStream()) {
-    print("Value: $value");
+    print("Lesson Data: $value");
   }
 
-  print("End");
+  print("Course Completed");
 }
 
 Stream<int> countStream() async* {
@@ -29,18 +54,28 @@ Stream<int> countStream() async* {
     yield i;
   }
 }
-🎯 Goals
-Strengthen Dart fundamentals
-Build strong programming logic
+🧠 Learning Approach
+
+✔ Step-by-step progression
+✔ Practical coding examples
+✔ Clean and structured code
+✔ Real-world programming concepts
+
+🎯 Course Goals
+Master Dart from zero to advanced
+Build strong OOP understanding
+Understand asynchronous programming deeply
 Prepare for Flutter development
-Practice real-world coding concepts
+Write clean and professional code
 ⚙️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Dart-Programming-blue?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Practice-Learning-success?style=flat-square" /> <img src="https://img.shields.io/badge/OOP-Concepts-yellow?style=flat-square" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Dart-Core%20Language-blue?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/OOP-Programming-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/Async%20&%20Streams-Advanced-purple?style=flat-square" /> </p>
+📌 Resources
+https://dart.dev
+https://dart-tutorial.com
 👩‍💻 Author
 
 Saja AlKhatib
-💙 Aspiring Flutter & Dart Developer
-🚀 Always learning, always building
+💙 Dart & Flutter Developer in Progress
+🚀 Building strong fundamentals step by step
 
-<p align="center"> ⭐ If you find this repository helpful, don’t forget to star it! </p>
-<h1>https://dart-tutorial.com</h1>
+<p align="center"> ⭐ If you find this course helpful, don’t forget to star the repository! </p>
