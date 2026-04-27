@@ -4,7 +4,7 @@ A structured and practical learning repository for mastering the Dart programmin
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This repository is designed to help developers build a strong foundation in Dart through:
 
@@ -17,7 +17,7 @@ It is especially useful for preparing for **Flutter development**.
 
 ---
 
-## 🧠 What You Will Learn
+##  What You Will Learn
 
 ### 🔹 Dart Basics
 - Variables & Data Types
@@ -50,4 +50,4 @@ It is especially useful for preparing for **Flutter development**.
 
 ---
 
-## 📂 Project Structure
+
