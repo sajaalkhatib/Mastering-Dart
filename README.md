@@ -1,5 +1,12 @@
-Mastering Dart – Complete Learning Course
+📘 Mastering Dart – Complete Learning Course
 <p align="center"> <img src="https://img.shields.io/badge/Course-Dart%20Mastery-blue?style=for-the-badge&logo=dart" /> <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Clean%20Code-orange?style=for-the-badge" /> </p>
+🧠 Learning Approach
+
+✔ Step-by-step progression
+✔ Practical coding examples
+✔ Clean and structured code
+✔ Real-world programming concepts
+
 🎯 Course Overview
 
 This repository is structured as a complete Dart learning course, starting from fundamentals and progressing to advanced topics. It is designed to build strong programming skills for Flutter development and real-world applications.
@@ -54,13 +61,6 @@ Stream<int> countStream() async* {
     yield i;
   }
 }
-🧠 Learning Approach
-
-✔ Step-by-step progression
-✔ Practical coding examples
-✔ Clean and structured code
-✔ Real-world programming concepts
-
 🎯 Course Goals
 Master Dart from zero to advanced
 Build strong OOP understanding
@@ -72,5 +72,5 @@ Write clean and professional code
 📌 Resources
 https://dart-tutorial.com
 
-
+⭐ Support
 <p align="center"> ⭐ If you find this course helpful, don’t forget to star the repository! </p>
